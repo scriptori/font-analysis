@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FontAnalysis</string>
+    <string name="regular_font_label">Regular Font:</string>
+    <string name="bold_font_label">Bold Font:</string>
+    <string name="bold_center_font_label">Bold Center Font:</string>
+    <string name="bold_right_font_label">Bold Right Font:</string>
+    <string name="italic_left_font_label">Italic Left Font:</string>
+    <string name="italic_left_font_skewed_label">Italic Left Font (skewed):</string>
+    <string name="italic_center_font_label">Italic Center Font:</string>
+    <string name="italic_center_font_skewed_label">Italic Center Font (skewed):</string>
+    <string name="italic_right_font_label">Italic Right Font:</string>
+    <string name="italic_right_font_skewed_label">Italic Right Font (Skewed):</string>
+    <string name="italic_bold_left_font_label">Italic Bold Left Font:</string>
+    <string name="italic_bold_left_font_skewed_label">Italic Bold Left Font (skewed):</string>
+    <string name="italic_bold_center_font_label">Italic Bold Center Font:</string>
+    <string name="italic_bold_center_font_skewed_label">Italic Bold Center Font (skewed):</string>
+    <string name="italic_bold_right_font_label">Italic Bold Right Font:</string>
+    <string name="italic_bold_right_font_skewed_label">Italic Bold Right Font (Skewed):</string>
+</resources>
